@@ -7,21 +7,15 @@ Programming courses, hands-on projects and tech events sparked my passion for th
 ***I'm always interested in learning and discovering new features!*** 📚  
 
 ## 🛠️ Languages and Tools
+### Languages:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<div>
-<a href="https://github.com/ryan-macedo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-macedo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ryan-macedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
+### Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 20px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" style="margin-right: 20px;" />
 </p>
 
-## Learning
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -30,6 +24,13 @@ Programming courses, hands-on projects and tech events sparked my passion for th
   <a href="https://instagram.com/rfm_245" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ryanfrmacedo1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/ryanfrmacedo1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-macedo-10462b318" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## ⚡ Status
+<div>
+<a href="https://github.com/ryan-macedo">
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-macedo&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ryan-macedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
