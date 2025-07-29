@@ -4,6 +4,10 @@
 🎓 - I'm currently studying Software Engineering at **UMC - Universidade de Mogi das Cruzes**.  
 Programming courses, hands-on projects and tech events sparked my passion for the field.
 
+🎯 - At the moment, I'm focusing on learning *Python* because it was one of the first programming languages I came into contact with and it's a very versatile language, allowing you to build a variety of projects to improve your skills.
+
+✏️ - In addition to programming, I also enjoy *drawing* and *playing games* as hobbies!
+
 ***I'm always interested in learning and discovering new features!*** 📚  
 
 ## 🛠️ Languages and Tools
