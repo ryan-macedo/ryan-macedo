@@ -15,10 +15,8 @@ Programming courses, hands-on projects and tech events sparked my passion for th
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" style="margin-right: 20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" style="margin-right: 20px;" />
-</p>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
 
 
