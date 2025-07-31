@@ -28,7 +28,7 @@ Programming courses, hands-on projects and tech events sparked my passion for th
   <a href="https://www.linkedin.com/in/ryan-macedo-10462b318" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## ⚡ Status
+## ⚡ Stats
 <div>
 <a href="https://github.com/ryan-macedo">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-macedo&layout=compact&langs_count=7&theme=dark"/>
